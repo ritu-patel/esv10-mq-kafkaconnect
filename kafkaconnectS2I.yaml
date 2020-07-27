@@ -25,13 +25,13 @@ spec:
         - name: deployer-dockercfg-dqzb2
       metadata:
         annotations:
-          cloudpakId: c8b82d189e7545f0892db9ef2731b90d
+          cloudpakId: xxxx
           cloudpakName: IBM Cloud Pak for Integration
           cloudpakVersion: 2020.2.1
           eventstreams.production.type: CloudPakForIntegrationNonProduction
           productChargedContainers: es-prod-connect
           productCloudpakRatio: '2:1'
-          productID: 2a79e49111f44ec3acd89608e56138f5
+          productID: xxxx
           productMetric: VIRTUAL_PROCESSOR_CORE
           productName: IBM Event Streams for Non Production
           productVersion: 10.0.0
